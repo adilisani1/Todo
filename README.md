@@ -1,1 +1,3 @@
-<img align="center" style="margin-top: "20px";" width="400" alt="Coding" src="https://raw.githubusercontent.com/adilisani1/Todo/master/todo-image.png">
+Todo App 
+
+![todo-image](https://github.com/adilisani1/Todo/assets/24828909/e55b5764-3a2d-472a-a5f3-d2deffae3a5a)
